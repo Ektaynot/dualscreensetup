@@ -1,0 +1,2 @@
+# dualscreensetup
+for bspwm
