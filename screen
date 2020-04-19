@@ -1,0 +1,4 @@
+#/bin/sh
+xrandr --output eDP-1 --mode 1920x1080 --right-of HDMI-2
+xrandr --output HDMI-2 --primary
+bspc wm -r
